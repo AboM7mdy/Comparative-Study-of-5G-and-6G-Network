@@ -1,3 +1,3 @@
-Hassan Alqahtani
-Abdulaziz Almutairi
+Hassan Alqahtani,
+Abdulaziz Almutairi,
 Nawaf Alghamdi
